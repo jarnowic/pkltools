@@ -1,6 +1,6 @@
-No installation script provided: deploy the binaries somewhere where your `$PATH` points to, copy the modules to your `$HOME` or `$USERPROFILE` space, and set the environment variable `PERL5LIB` to the `PERL5LIB` directory in your home and userprofile directory.
+No installation script provided: deploy the binaries somewhere in your `$PATH` environment variable, and copy the modules to the directory in the `PERL5LIB` environment variable.
 
-I might add the `install.pl` if someone contributes with one.
+I might add an `install.pl` if someone contributes with one.
 
 Good luck, and happy keyboard layout tweaking.
 
